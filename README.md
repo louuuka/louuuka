@@ -8,12 +8,12 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/melek-bahroun-b01673265" target="_blank">
+<a href="https://www.linkedin.com/in/melek-bahroun-b01673265" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://portfolio-two-bay-85.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<a href="https://portfolio-two-bay-85.vercel.app/" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
