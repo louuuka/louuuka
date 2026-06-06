@@ -11,6 +11,9 @@
 <a href="www.linkedin.com/in/melek-bahroun-b01673265">
   <img src="https://img.shields.io/badge/LinkedIn-ff4da6?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<a href="[https://YOUR-PORTFOLIO-LINK.com](https://portfolio-two-bay-85.vercel.app/)" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-88bc42?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 </p>
 
